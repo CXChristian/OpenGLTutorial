@@ -1,0 +1,21 @@
+# Visual Studio
+.vs/
+*.vcxproj*
+*.sln
+
+*.o
+*.obj
+*.exe
+*.out
+*.dll
+*.lib
+*.so
+
+build/
+bin/
+dist/
+output/
+x64/
+
+libs/
+dependencies/
